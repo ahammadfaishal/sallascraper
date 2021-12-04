@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreBuilder.Web", "src\Sto
 		{E336B0B7-31E0-4AF2-BB53-AD0F136AB87D} = {E336B0B7-31E0-4AF2-BB53-AD0F136AB87D}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBuilder.Core", "StoreBuilder.Core\StoreBuilder.Core.csproj", "{E336B0B7-31E0-4AF2-BB53-AD0F136AB87D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBuilder.Core", "src\StoreBuilder.Core\StoreBuilder.Core.csproj", "{E336B0B7-31E0-4AF2-BB53-AD0F136AB87D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
