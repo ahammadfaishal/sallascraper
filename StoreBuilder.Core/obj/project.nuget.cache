@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mj3gvpRPW+sGPvLCkewGX5PAI9UqdHu2cKQb+/KlpvkYKsAtjXudXnU0GxPhcbm7VBlXjzuFQ/1oSGqwp1IU6w==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\StoreBuilder\\StoreBuilder.Core\\StoreBuilder.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahamm\\.nuget\\packages\\htmlagilitypack\\1.11.38\\htmlagilitypack.1.11.38.nupkg.sha512"
+  ],
+  "logs": []
+}
